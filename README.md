@@ -49,12 +49,6 @@ IN THIS CHALLENGE, YOU WILL LEARN ABOUT:
     <!--
 TASK 1
 =======================================================
-Replace the header contents: 
-- replace logo with an image of your own (100px x 100px and containing transparency). 
-- replace 'Firstname Lastname' with your name
-- replace 'Name of Site' with a new site name
--->
-
     <header>          
       <img src="https://www.flickr.com/photos/203838183@N02/54935075591/in/dateposted-public/" width="100" align="right" height="100" alt="BC_monogram">            
       <h1>Bea Campbell's Guide To Be A Clip Masking Pro</h1>
